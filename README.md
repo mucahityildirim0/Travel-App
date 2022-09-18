@@ -1,10 +1,10 @@
-<h4 align="center">Travel Website using <a href="http://electron.atom.io" target="_blank">React</a>.</h4>
+<h4 align="center">Travel Website using <a href="https://reactjs.org/" target="_blank">React</a></h4>
 
 <p align="center">
-  <a href="#https://statuesque-kelpie-a93c14.netlify.app/">Demo Link</a> •
+  <a href="https://statuesque-kelpie-a93c14.netlify.app/">Demo Link</a> 
 </p>
 
-![screenshot](https://www.hizliresim.com/g7n9auz)
+![screenshot](https://i.hizliresim.com/g7n9auz.png)
 
 ## How To Use
 
