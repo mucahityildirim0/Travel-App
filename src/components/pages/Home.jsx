@@ -1,6 +1,7 @@
 import React from "react";
 import "../../App.css";
 import Cards from "../Cards";
+import Footer from "../Footer";
 import HeroSection from "../HeroSection";
 import Navbar from "../Navbar";
 
@@ -10,6 +11,7 @@ const Home = () => {
       <Navbar />
       <HeroSection />
       <Cards />
+      <Footer />
     </div>
   );
 };
